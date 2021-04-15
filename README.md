@@ -10,4 +10,11 @@ Simulates transactions operations, such as deposit and withdraws.
 
 * [Visual Studio Code] - Code editor 
 
+## Run this project in your local machine:
 
+### `yarn`
+- Install all dependencies.
+
+### `yarn start`
+
+- Then run the application.
